@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gt-telem"
-version = "1.2.0"
+version = "1.0.0"
 description = "Library to interface with Gran Turismo's motion rig telemetry service."
 readme = "README.md"
 authors = [{ name = "Jonpro03", email = "jonpro03@gmail.com" }]
